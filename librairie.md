@@ -1,3 +1,8 @@
+---
+layout: page
+title: La librairie Utopia est en ligne!
+---
+
 # la librairie Utopia
 
 La librairie utopia fait partie du lieu imaginaire, il s'agit d'une librairie de seconde main qui comprend les apsects suivants :

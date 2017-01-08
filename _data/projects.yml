@@ -1,9 +1,9 @@
 - name: Utopia
   link: "./librairie"
   description: "une librairie de seconde main"
-- name: project 2
-  link: "#"
-  description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
+- name: Paroi
+  link: "./Paroi"
+  description: "un mur de grimpe"
 - name: project 3
   link: "#"
   description: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam"
